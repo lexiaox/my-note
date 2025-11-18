@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "vscode"
             }
-          },
-          {
-            "id": "292fccebddc6b6f8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,16 +183,19 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "292fccebddc6b6f8",
+  "active": "f553759bbd481426",
   "lastOpenFiles": [
-    "missing computer class milestone.md",
-    "linux onedrive-ldy-Legion-Y7000P-IRX10-safeBackup-0001.md",
-    "linux onedrive.md",
+    "Obsidian + OneDrive 同步设置清单.md",
+    "vscode.md",
+    "README.md",
+    "未命名.md",
     "bash.md",
     "bash.pdf",
+    "linux onedrive.md",
+    "linux onedrive-ldy-Legion-Y7000P-IRX10-safeBackup-0001.md",
+    "missing computer class milestone.md",
     "C/switch 语句.md",
     "C/字符串读入.md",
-    "vscode.md",
     "linux onedrive.md.partial"
   ]
 }
