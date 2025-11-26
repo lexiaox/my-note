@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "95bba4d8f39446a7",
+        "id": "d31c3ee66f0c00c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f553759bbd481426",
+            "id": "e733785c5a8489d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "同步.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "同步"
-            }
-          },
-          {
-            "id": "10a806a06c016e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C/取整函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "取整函数"
-            }
-          },
-          {
-            "id": "cda3b193d0740ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bash.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "bash"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,24 +179,39 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "cda3b193d0740ce1",
+  "active": "e733785c5a8489d2",
   "lastOpenFiles": [
+    "C/结构体 (struct) 的定义与操作总结.md",
+    "C/C 语言内存操作函数总结 (memcpy & memset).md",
+    "C/C语言中的 EOF (End Of File) 详解.md",
+    "杂项/简谐振动.md",
+    "bash/Ripgrep (rg) 使用指南.md",
+    "杂项",
     "C/C 语言核心概念：为什么数组传参不需要 `&`？.md",
+    "bash.md",
+    "同步/笔记专用同步脚本.md",
+    "同步/同步.md",
+    "同步/linux onedrive.md",
+    "同步/linux onedrive-ldy-Legion-Y7000P-IRX10-safeBackup-0001.md",
+    "同步",
+    "sync.sh",
+    "bash/短路运算符.md",
+    "bash/替换词.md",
+    "bash/常用命令.md",
+    "bash/tar 命令使用指南.md",
+    "bash/Shell 函数与 Export 机制.md",
+    "bash/Shebang   详解.md",
+    "bash/Linux 搜索三剑客：grep  rg  find.md",
+    "bash/Linux find 命令详解.md",
+    "bash/Linux fd 命令详解 (Modern Find).md",
+    "bash/grep.md",
+    "bash",
+    "C/C语言：自定义头文件与模块化编程.md",
     "C/c文本读入读出.md",
     "C/switch 语句.md",
     "C/取整函数.md",
     "C/字符串读入.md",
-    "C/求数组的长度.md",
-    "同步.md",
-    "三角函数.md",
-    "vscode.md",
-    "README.md",
     "bash.pdf",
-    "linux onedrive.md",
-    "linux onedrive-ldy-Legion-Y7000P-IRX10-safeBackup-0001.md",
-    "missing computer class milestone.md",
-    "bash.md",
-    "Obsidian + OneDrive 同步设置清单.md",
     "linux onedrive.md.partial"
   ]
 }
