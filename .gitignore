@@ -8,3 +8,4 @@
 .obsidian/plugins/         # <-- 推荐：忽略所有插件设置，只同步插件代码
 .obsidian/workspace.json
 .obsidian/workspace.json
+.obsidian/graph.json
