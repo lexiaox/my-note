@@ -1,9 +1,1 @@
-.trash/
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/app.json       # <-- 新增
-.obsidian/appearance.json # <-- 新增
-.obsidian/core-plugins.json # <-- 新增
-.obsidian/plugins/         # <-- 推荐：忽略所有插件设置，只同步插件代码
 .obsidian/workspace.json
