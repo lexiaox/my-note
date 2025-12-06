@@ -251,3 +251,10 @@ awk 'pattern { action }' input-file
 - 组合模式：
   awk '$1 == "user" && $NF > 50' filename
 ```
+
+
+
+
+
+/ /的 用法：[[awk 补充]]
+begin ,end 的用法:[[AWK 中 `BEGIN` 和 `END` 块用法笔记]]
