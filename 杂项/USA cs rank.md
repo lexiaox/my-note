@@ -1,3 +1,4 @@
+
 |     |                                                                                                                                                                                                                                                                                             |      |     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --- |
 | 1   | ► Carnegie Mellon University ![](https://csrankings.org/flags/us.png "United States") ![closed chart](https://csrankings.org/png/barchart.png)► 卡内基梅隆大学 ![](https://csrankings.org/flags/us.png "United States") ![closed chart](https://csrankings.org/png/barchart.png)                   | 20.7 | 178 |
