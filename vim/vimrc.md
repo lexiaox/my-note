@@ -3,7 +3,8 @@
 " ==========================================
 " 关闭兼容模式
 set nocompatible
-
+" Neovim 自动识别
+set fileencodings=utf-8,gbk,utf-16,cp936
 " 开启语法高亮
 syntax on
 
@@ -70,7 +71,7 @@ if has('nvim')
     " 语法高亮引擎
     Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
     " LSP 基础配置 (C语言补全)
-    Plug 'neovim/nvim-lspconfig'
+    Plug 'neovim/nvim-lspconfig', { 'tag': 'v2.1.0' }
 endif
 
 call plug#end()
@@ -81,15 +82,6 @@ call plug#end()
 " 禁用 Q 进入 Ex 模式
 nmap Q <Nop>
 
-" 强迫症模式：禁止使用方向键 (教学模式)
-nnoremap <Left>  :echoe "Use h"<CR>
-nnoremap <Right> :echoe "Use l"<CR>
-nnoremap <Up>    :echoe "Use k"<CR>
-nnoremap <Down>  :echoe "Use j"<CR>
-inoremap <Left>  <ESC>:echoe "Use h"<CR>
-inoremap <Right> <ESC>:echoe "Use l"<CR>
-inoremap <Up>    <ESC>:echoe "Use k"<CR>
-inoremap <Down>  <ESC>:echoe "Use j"<CR>
 
 " Ctrl+n 打开/关闭 NERDTree
 map <C-n> :NERDTreeToggle<CR>
