@@ -50,11 +50,14 @@ onedrive
 2. 然后运行：
 
 ```
-    onedrive --synchronize
+    
+     onedrive -s
     
 ```
  
   它会扫描本地 OneDrive 文件夹并上传所有变化。
+
+
 
 
 ---
