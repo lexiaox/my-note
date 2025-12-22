@@ -1,2 +1,14 @@
-.obsidian/workspace.json
-.obsidian/graph.json
+# Obsidian 自身配置 (如果你想同步插件设置，就把 .obsidian 这一行去掉)
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/cache
+
+# 编译产生的二进制文件 (防止污染笔记库)
+*.o
+*.out
+*.exe
+*.bin
+
+# 操作系统垃圾
+.DS_Store
+Thumbs.db
