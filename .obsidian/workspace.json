@@ -25,14 +25,10 @@
             "id": "f50a5218a46e029c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -68,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +207,21 @@
   },
   "active": "f50a5218a46e029c",
   "lastOpenFiles": [
+    "000-Home.md",
+    "C/stdlib.h头文件介绍.md",
+    "C/switch 语句.md",
+    "C/000-C-Lang-Index.md",
+    "python/000-Python-Index.md",
+    "数学/000-Math-Index.md",
+    "数学/不定积分的概念与性质.md",
+    "杂项/欢迎.md",
+    "README.md",
+    "vim/000-Vim-Index.md",
+    "shell/000-Shell-Index.md",
+    "C/000-C-Lang-Index.md~",
+    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
+    "数学/泰勒公式的推导与余项作用 (笔记).md",
+    "000-Home.md~",
     "obsidian/01-学习obsidian的基础用法.md",
     "杂项/为什么叫 CLI (Command Line Interface).md",
     "obsidian",
@@ -229,28 +239,13 @@
     "Excalidraw/Drawing 2025-12-21 21.10.20.excalidraw.md",
     "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-Pi-Calculation.md",
     "算法/连通块计数问题.md",
-    "shell/`st` 命令行统计工具用法.md",
-    "High-Performance-Computing(HPC)/01-OpenMP-Basics(OpenMP 指令).md",
-    "High-Performance-Computing(HPC)/02-MPI-Distributed(MPI 通信).md",
-    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
     "Excalidraw",
-    "vim/Vim 常见错误：source .vimrc 报错.md",
-    "vim/怎么“打开”和使用 Tabline.md",
-    "恢复系统配置/VPS-Vultr-Singapore.md.md",
-    "github/github token.md",
-    "Excalidraw/Drawing 2025-12-21 21.06.11.excalidraw.md",
     "High-Performance-Computing(HPC)/04-Labs(实验数据)",
     "High-Performance-Computing(HPC)",
-    "HPC_Master_MOC.md.md",
-    "C/C 语言指针逻辑判断：`while (head)`.md",
     "03-Academic/High-Performance-Computing",
     "Untitled.canvas",
-    "2025-12-21.md",
     "03-Academic",
-    "vim/Vim 正则表达式与替换命令笔记.md",
     "恢复系统配置",
-    "markdown",
-    "bash",
     "物理/Pasted image 20251104165659.png"
   ]
 }
