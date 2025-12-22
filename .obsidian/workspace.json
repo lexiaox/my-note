@@ -25,14 +25,14 @@
             "id": "f50a5218a46e029c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "obsidian/01-学习obsidian的基础用法.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01-学习obsidian的基础用法"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c095562c3248366",
+  "active": "f50a5218a46e029c",
   "lastOpenFiles": [
-    "杂项/为什么叫 CLI (Command Line Interface).md",
     "obsidian/01-学习obsidian的基础用法.md",
+    "杂项/为什么叫 CLI (Command Line Interface).md",
     "obsidian",
     "物理/简谐振动.md",
     "物理/流体力学.md",
