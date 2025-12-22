@@ -9,12 +9,14 @@
 - [[03-Hardware-Details(底层原理)|体系结构深挖]]: 缓存一致性、伪共享、MESI 协议。
 
 ## 🧪 实验手册 (Labs)
-- [ ] [[Lab-Pi-Calculation|实验 1: 蒙特卡洛/矩形法计算 Pi]]: 验证并行加速比。
+- [ ] [[Lab-Pi-Calculation.md|实验 1: 蒙特卡洛/矩形法计算 Pi]]: 验证并行加速比。
 - [ ] [[Lab-False-Sharing-Test|实验 2: 伪共享压力测试]]: 理解 `volatile` 与 Cache Line。
 
 ---
-## 📊 性能汇总 (Dataview)
+## 📊 实验数据自动汇总 dashboard
+
 ```dataview
-TABLE 耗时, 加速比
-FROM "High-Performance-Computing/04-Labs"
-WHERE 耗时 != null
+TABLE 实验名称, 耗时, 加速比, status AS "状态"
+FROM "High-Performance-Computing(HPC)/04-Labs(实验数据)"
+SORT 加速比 DESC
+```

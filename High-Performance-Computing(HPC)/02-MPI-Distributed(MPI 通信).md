@@ -1,11 +1,3 @@
-既然你已经准备好了，我们这就把兰大并行计算中难度最高、也最核心的部分——**MPI 分布式通信**，整理成 `02-MPI-Distributed.md` 的内容。
-
-在分布式环境下，内存不再共享，每个进程都是一个独立的“孤岛”。所以，**“如何优雅地交换数据”**和**“如何避免死锁”**是这份笔记的灵魂。
-
----
-
-### 📂 02-MPI-Distributed.md 核心指令清单
-
 ---
 tags: [HPC, MPI, Distributed-Computing]
 updated: <% tp.date.now("YYYY-MM-DD") %>

@@ -1,10 +1,10 @@
-### 📂 Lab-False-Sharing-Test.md 实验记录
 ---
-tags: [Lab, Architecture, Cache-Optimization]
-target: 验证 Cache Line 伪共享带来的性能损耗
-platform: Lenovo Legion Y7000P (Intel i7, 64-byte Cache Line)
+tags: [HPC, Lab]
+实验名称: 伪共享测试
+耗时: 0.026s
+加速比: 7.8
+status: ✅ 完成
 ---
-
 # 🧪 实验：伪共享 (False Sharing) 压力测试与消除
 
 ## 1. 实验核心逻辑

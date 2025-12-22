@@ -1,3 +1,5 @@
 {
-  "interfaceFontFamily": "UbuntuMono Nerd Font Mono"
+  "interfaceFontFamily": "UbuntuMono Nerd Font Mono",
+  "baseFontSize": 16,
+  "cssTheme": "Minimal"
 }

@@ -1,4 +1,3 @@
-
 ---
 tags: [HPC, OpenMP, C-Language]
 updated: <% tp.date.now("YYYY-MM-DD") %>
