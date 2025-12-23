@@ -25,14 +25,12 @@
             "id": "42df79a2091a99d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "High-Performance-Computing(HPC)/03-Hardware-Details(底层原理).md",
-                "mode": "preview",
-                "source": false
+                "file": "High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "03-Hardware-Details(底层原理)"
+              "icon": "excalidraw-icon",
+              "title": "MESI-Protocol-Diagram"
             }
           }
         ],
@@ -223,10 +221,18 @@
   },
   "active": "42df79a2091a99d8",
   "lastOpenFiles": [
-    "High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-Pi-Calculation.md.md",
+    "High-Performance-Computing(HPC)/01-OpenMP-Basics(OpenMP 指令).md",
+    "High-Performance-Computing(HPC)/02-MPI-Distributed(MPI 通信).md",
     "High-Performance-Computing(HPC)/03-Hardware-Details(底层原理).md",
-    "算法/连通块计数问题.md",
+    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
+    "High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-False-Sharing-Test.md",
+    "phd/方向.md",
     "000-Home.md",
+    "obsidian/01-学习obsidian的基础用法.md",
+    "markdown/Markdown 语法速查表.md",
+    "算法/连通块计数问题.md",
     "vim/怎么“打开”和使用 Tabline.md",
     "vim/Vim 窗口大小调整指南.md",
     "vim/Vim 多窗口切换指南.md",
@@ -241,14 +247,6 @@
     "同步/linux onedrive.md",
     "同步/同步.md",
     "同步/笔记专用同步脚本.md",
-    "C/C 语言指针逻辑判断：`while (head)`.md",
-    "C/C 语言内存操作函数总结 (memcpy & memset).md",
-    "C/实现C 语言内存分配：`malloc` 语句拆解(实现链表).md",
-    "C/求数组的长度.md",
-    "C/结构体变量本身与指向结构体的指针的区别.md",
-    "C/结构体 (struct) 的定义与操作总结.md",
-    "C/000-C-Lang-Index.md",
-    "github/github token.md",
     "Templates",
     "C/000-C-Lang-Index.md~",
     "000-Home.md~",
