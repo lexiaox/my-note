@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bash/tmux 入门与快捷键指南.md",
+                "file": "数学/泰勒公式的推导与余项作用 (笔记).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tmux 入门与快捷键指南"
+              "title": "泰勒公式的推导与余项作用 (笔记)"
+            }
+          },
+          {
+            "id": "888ed7842e1c8cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/极限定义证明笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "极限定义证明笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "bash/tmux 入门与快捷键指南.md",
+            "file": "数学/极限定义证明笔记.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,9 +168,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "8592678fc9cd7a5e",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,39 +190,47 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6c8fc149b260458",
+  "active": "888ed7842e1c8cfe",
   "lastOpenFiles": [
-    "vim/Vim 窗口大小调整指南.md",
-    "vim/Vim 多窗口切换指南.md",
-    "杂项/简谐振动.md",
-    "杂项/欢迎.md",
-    "杂项/三角函数.md",
-    "杂项/vscode.md",
-    "杂项/missing computer class milestone.md",
-    "杂项/README.md",
-    "杂项",
-    "vim/Vim 正则表达式与替换命令笔记.md",
-    "vim/Vim 基础指令概览.md",
-    "vim",
-    "bash/tmux 入门与快捷键指南.md",
-    "bash/tar 命令使用指南.md",
-    "bash/`xargs` 命令行参数转换工具 (Markdown 版).md",
-    "bash/Sed (流编辑器) 用法.md",
-    "bash/Ripgrep (rg) 使用指南.md",
-    "bash/Linux 搜索三剑客：grep  rg  find.md",
-    "C/结构体 (struct) 的定义与操作总结.md",
-    "C/C语言：自定义头文件与模块化编程.md",
-    "C/C语言中的 EOF (End Of File) 详解.md",
-    "C/C 语言核心概念：为什么数组传参不需要 `&`？.md",
-    "C/C 语言内存操作函数总结 (memcpy & memset).md",
-    "2025-12-01.md",
-    "物理/流体力学.md",
-    "vscode.md",
-    "python/2. 输入输出.md",
-    "欢迎.md",
-    "bash.pdf"
+    "算法/连通块计数问题.md",
+    "算法",
+    "杂项/为什么叫 CLI (Command Line Interface).md",
+    "数学/000-Math-Index.md",
+    "恢复系统配置/Ubuntu 系统存档与恢复指令 (Legion-Y7000P).md",
+    "恢复系统配置/Timeshift 系统存档操作清单.md",
+    "恢复系统配置",
+    "web/网络基础：代理服务器 (Proxy Server).md",
+    "web/clash vege yaml.md",
+    "web/VPS-Vultr-Singapore.md.md",
+    "web",
+    "vim/怎么“打开”和使用 Tabline.md",
+    "vim/vim加载文件.md",
+    "vim/vim分裂终端.md",
+    "vim/vim分屏操作.md",
+    "vim/vimrc.md",
+    "vim/Vim 常见错误：source .vimrc 报错.md",
+    "vim/000-Vim-Index.md",
+    "shell/`st` 命令行统计工具用法.md",
+    "shell/GDB (GNU Debugger) 和 Makefile 的详细指南.md",
+    "shell/Docker 原理与 OpenHarmony 编译环境总结.md",
+    "shell/000-Shell-Index.md",
+    "python/000-Python-Index.md",
+    "phd/方向.md",
+    "phd/USA cs rank.md",
+    "phd/PhD Application Tracker.md",
+    "phd",
+    "obsidian/01-学习obsidian的基础用法.md",
+    "obsidian",
+    "markdown/Markdown 语法速查表.md",
+    "markdown",
+    "github/github token.md",
+    "github",
+    "Templates",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)",
+    "High-Performance-Computing(HPC)"
   ]
 }
