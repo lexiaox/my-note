@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/极限定义证明笔记.md",
+                "file": "Templates/tpl-generic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "极限定义证明笔记"
+              "title": "tpl-generic"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "数学/极限定义证明笔记.md",
+            "file": "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-Pi-Calculation.md.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,15 +191,33 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "888ed7842e1c8cfe",
+  "active": "497262c2f8146223",
   "lastOpenFiles": [
+    "Math/函数的连续性 (Continuity).md",
+    "000-Home.md",
+    "Math/000-Math-Index.md",
+    "Math/变限积分求导公式.md",
+    "Templates/tpl-generic.md",
+    "Math/不定积分的概念与性质.md",
+    "Math/极限定义证明笔记.md",
+    "数学/未命名.base",
+    "数学/000-数学-Index.md",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-Pi-Calculation.md.md",
+    "洛伦兹变换.md",
+    "/洛伦兹变换.md",
+    "/High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md",
+    "/High-Performance-Computing(HPC)",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-False-Sharing-Test.md",
+    "shell/000-Shell-Index.md",
     "算法/连通块计数问题.md",
     "算法",
     "杂项/为什么叫 CLI (Command Line Interface).md",
-    "数学/000-Math-Index.md",
     "恢复系统配置/Ubuntu 系统存档与恢复指令 (Legion-Y7000P).md",
     "恢复系统配置/Timeshift 系统存档操作清单.md",
     "恢复系统配置",
@@ -211,26 +229,10 @@
     "vim/vim加载文件.md",
     "vim/vim分裂终端.md",
     "vim/vim分屏操作.md",
-    "vim/vimrc.md",
-    "vim/Vim 常见错误：source .vimrc 报错.md",
-    "vim/000-Vim-Index.md",
-    "shell/`st` 命令行统计工具用法.md",
-    "shell/GDB (GNU Debugger) 和 Makefile 的详细指南.md",
-    "shell/Docker 原理与 OpenHarmony 编译环境总结.md",
-    "shell/000-Shell-Index.md",
-    "python/000-Python-Index.md",
-    "phd/方向.md",
-    "phd/USA cs rank.md",
-    "phd/PhD Application Tracker.md",
     "phd",
-    "obsidian/01-学习obsidian的基础用法.md",
     "obsidian",
-    "markdown/Markdown 语法速查表.md",
     "markdown",
-    "github/github token.md",
     "github",
-    "Templates",
-    "High-Performance-Computing(HPC)/04-Labs(实验数据)",
-    "High-Performance-Computing(HPC)"
+    "Templates"
   ]
 }

@@ -20,7 +20,7 @@ cssclass: dashboard
 - **网络安全**: [[网络基础：代理服务器 (Proxy Server)|Web Security & Proxy]]
 
 ## 📐 学术与基础 (Academic)
-- **数学基础**: [[数学/000-Math-Index|微积分与泰勒展开]]
+- **数学基础**: [[000-Math-Index|微积分与泰勒展开]]
 - **物理**: [[物理/流体力学|流体力学]] / [[物理/简谐振动|简谐振动]]
 - **科研规划**: [[phd/方向|PhD 方向规划]] / [[phd/USA cs rank|CS Ranking]]
 
