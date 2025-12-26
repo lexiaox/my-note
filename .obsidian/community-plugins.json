@@ -1,7 +1,8 @@
 [
-  "obsidian-git",
+  "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "markdown-table-editor",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]
+
