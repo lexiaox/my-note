@@ -23,7 +23,7 @@
   "file_templates": [
     {
       "regex": "/",
-      "template": "Templates/tpl-generic.md"
+      "template": "Templates/model.md"
     },
     {
       "regex": "",

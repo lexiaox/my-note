@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "`qsort`函数的使用方法及参数数据"
             }
+          },
+          {
+            "id": "ed8b7d2cdf9056e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学/泰勒公式的推导与余项作用 (笔记).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "泰勒公式的推导与余项作用 (笔记)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,34 +249,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f78c2f87435f030",
+  "active": "5c095562c3248366",
   "lastOpenFiles": [
-    "High-Performance-Computing(HPC)/01-OpenMP-Basics(OpenMP 指令).md",
-    "C/`qsort`函数的使用方法及参数数据.md",
-    "High-Performance-Computing(HPC)/02-MPI-Distributed(MPI 通信).md",
+    "数学/三角函数.md",
+    "数学/极限定义证明笔记.md",
+    "数学/不定积分的概念与性质.md",
+    "数学/000-Math-Index.md",
+    "数学/三角函数微积分函数导数速查笔记.md",
+    "数学/泰勒公式的推导与余项作用 (笔记).md",
+    "数学/泰勒展开常见公式.md",
+    "C/字符串读入.md",
+    "C/define —— c语言的预处理.md",
+    "work/寒假第一周.md",
+    "杂项/三年战略规划.md",
+    "work",
+    "杂项/暑研.md",
+    "杂项/为什么叫 CLI (Command Line Interface).md",
     "大作业/README.md",
+    "Excalidraw/Drawing 2025-12-25 17.38.04.excalidraw.md",
+    "Templates/model.md",
+    "Templates/CS101_C语言_Final.md",
+    "Templates/tpl-generic.md",
+    "C/`qsort`函数的使用方法及参数数据.md",
+    "High-Performance-Computing(HPC)/01-OpenMP-Basics(OpenMP 指令).md",
+    "High-Performance-Computing(HPC)/02-MPI-Distributed(MPI 通信).md",
     "大作业/05-使用的函数补充.md",
     "大作业/04-Top 50 基因筛选与交集分析.md",
     "大作业/02-texor.c 文件分析.md",
     "obsidian/01-学习obsidian的基础用法.md",
     "大作业/03-样本分组.md",
-    "大作业/01-基于年龄分组的基因差异表达分析.md",
-    "大作业/000-大作业-Index.md",
-    "conflict-files-obsidian-git.md",
-    "web/VPS-Vultr-Singapore.md.md",
-    "web/网络基础：代理服务器 (Proxy Server).md",
-    "web/clash vege yaml.md",
-    "web/零基础小白：5 分钟自建极速私有节点.md",
-    "web/yaml模板.md",
-    "Templates/tpl-generic.md",
-    "markdown/Markdown 语法速查表.md",
-    "恢复系统配置/Ubuntu 系统存档与恢复指令 (Legion-Y7000P).md",
-    "恢复系统配置/Timeshift 系统存档操作清单.md",
-    "000-Home.md",
-    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
-    "High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md",
-    "物理/洛伦兹变换.md",
-    "突围与重塑：大学生视角的《终身学习》深度读书报告.md",
     "大作业",
     "Templates",
     "C/000-C-Lang-Index.md~",
@@ -274,7 +289,6 @@
     "Excalidraw",
     "High-Performance-Computing(HPC)/04-Labs(实验数据)",
     "High-Performance-Computing(HPC)",
-    "03-Academic/High-Performance-Computing",
     "Untitled.canvas",
     "物理/Pasted image 20251104165659.png"
   ]
