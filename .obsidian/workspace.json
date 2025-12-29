@@ -65,14 +65,12 @@
             "id": "c2804c01c6b9948e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "计算机系统/SIMD.md",
-                "mode": "source",
-                "source": false
+                "file": "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.pdf"
               },
-              "icon": "lucide-file",
-              "title": "SIMD"
+              "icon": "lucide-file-text",
+              "title": "基于 x86 架构的单精度矩阵乘法性能优化微观机制研究"
             }
           }
         ],
@@ -211,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机系统/SIMD.md",
+                "file": "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SIMD 的大纲"
+              "title": "基于 x86 架构的单精度矩阵乘法性能优化微观机制研究 的大纲"
             }
           },
           {
@@ -264,8 +262,13 @@
   },
   "active": "c2804c01c6b9948e",
   "lastOpenFiles": [
-    "计算机系统/预取机制失效和TLB 缺失.md",
-    "计算机系统/SIMD.md",
+    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/04.1-Lab-False-Sharing-Test.md",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/04.2-Lab-Pi-Calculation.md.md",
+    "计算机系统/02.1-AVX2 Intrinsic（内置函数）代码分析.md",
+    "计算机系统/02-SIMD.md",
+    "计算机系统/01-预取机制失效和TLB 缺失.md",
+    "算法/01-连通块计数问题.md",
     "github/github token.md",
     "计算机系统",
     "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.pdf",
@@ -280,15 +283,12 @@
     "High-Performance-Computing(HPC)/03-Hardware-Details(底层原理).md",
     "High-Performance-Computing(HPC)/05-Lab-OpenBLAS.md",
     "High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md",
-    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
     "Excalidraw/Drawing 2025-12-28 22.36.39.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
     "未命名.base",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-Pi-Calculation.md.md",
-    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-False-Sharing-Test.md",
     "High-Performance-Computing(HPC)/06-GEMM/07-High-Performance-Computing(HPC) GEMM 核心原理与优化.md",
     "Lab-Build-MPI-Source.md",
     "High-Performance-Computing(HPC)/06-GEMM",
@@ -298,8 +298,6 @@
     "conflict-files-obsidian-git.md",
     "Math/泰勒展开常见公式.md",
     "Math/泰勒公式的推导与余项作用 (笔记).md",
-    "Math/极限定义证明笔记.md",
-    "Math/函数的连续性 (Continuity).md",
     "Math",
     "work",
     "大作业",
