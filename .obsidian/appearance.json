@@ -1,5 +1,8 @@
 {
   "interfaceFontFamily": "UbuntuMono Nerd Font Mono",
   "baseFontSize": 16,
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "clean-pdf"
+  ]
 }

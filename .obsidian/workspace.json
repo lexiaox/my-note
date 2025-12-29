@@ -41,30 +41,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/`qsort`函数的使用方法及参数数据.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "`qsort`函数的使用方法及参数数据"
-            }
-          },
-          {
-            "id": "ed8b7d2cdf9056e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/泰勒公式的推导与余项作用 (笔记).md",
+                "file": "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "泰勒公式的推导与余项作用 (笔记)"
+              "title": "基于 x86 架构的单精度矩阵乘法性能优化微观机制研究"
+            }
+          },
+          {
+            "id": "ff51fb6ccbb45609",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "基于 x86 架构的单精度矩阵乘法性能优化微观机制研究"
+            }
+          },
+          {
+            "id": "c2804c01c6b9948e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机系统/SIMD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SIMD"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -199,12 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "计算机系统/SIMD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "SIMD 的大纲"
             }
           },
           {
@@ -232,7 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,46 +262,49 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c095562c3248366",
+  "active": "c2804c01c6b9948e",
   "lastOpenFiles": [
-    "数学/三角函数.md",
-    "数学/极限定义证明笔记.md",
-    "数学/不定积分的概念与性质.md",
-    "数学/000-Math-Index.md",
-    "数学/三角函数微积分函数导数速查笔记.md",
-    "数学/泰勒公式的推导与余项作用 (笔记).md",
-    "数学/泰勒展开常见公式.md",
-    "C/字符串读入.md",
-    "C/define —— c语言的预处理.md",
-    "work/寒假第一周.md",
-    "杂项/三年战略规划.md",
-    "work",
-    "杂项/暑研.md",
-    "杂项/为什么叫 CLI (Command Line Interface).md",
-    "大作业/README.md",
-    "Excalidraw/Drawing 2025-12-25 17.38.04.excalidraw.md",
-    "Templates/model.md",
-    "Templates/CS101_C语言_Final.md",
-    "Templates/tpl-generic.md",
-    "C/`qsort`函数的使用方法及参数数据.md",
+    "计算机系统/预取机制失效和TLB 缺失.md",
+    "计算机系统/SIMD.md",
+    "github/github token.md",
+    "计算机系统",
+    "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.pdf",
+    "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.md",
+    "High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究_tmp.html",
+    "High-Performance-Computing(HPC)/08-Lab-Build-MPI-Source.md",
+    "同步/linux onedrive-ldy-Legion-Y7000P-IRX10-safeBackup-0001.md",
+    "High-Performance-Computing(HPC)/memory_access_pattern_v3.png",
+    "High-Performance-Computing(HPC)/performance_chart.png",
     "High-Performance-Computing(HPC)/01-OpenMP-Basics(OpenMP 指令).md",
     "High-Performance-Computing(HPC)/02-MPI-Distributed(MPI 通信).md",
-    "大作业/05-使用的函数补充.md",
-    "大作业/04-Top 50 基因筛选与交集分析.md",
-    "大作业/02-texor.c 文件分析.md",
-    "obsidian/01-学习obsidian的基础用法.md",
-    "大作业/03-样本分组.md",
+    "High-Performance-Computing(HPC)/03-Hardware-Details(底层原理).md",
+    "High-Performance-Computing(HPC)/05-Lab-OpenBLAS.md",
+    "High-Performance-Computing(HPC)/MESI-Protocol-Diagram.md",
+    "High-Performance-Computing(HPC)/HPC_Master_MOC（导航）.md",
+    "Excalidraw/Drawing 2025-12-28 22.36.39.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.svg",
+    "未命名.base",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-Pi-Calculation.md.md",
+    "High-Performance-Computing(HPC)/04-Labs(实验数据)/Lab-False-Sharing-Test.md",
+    "High-Performance-Computing(HPC)/06-GEMM/07-High-Performance-Computing(HPC) GEMM 核心原理与优化.md",
+    "Lab-Build-MPI-Source.md",
+    "High-Performance-Computing(HPC)/06-GEMM",
+    "Math/变限积分求导公式.md",
+    "C/`qsort`函数的使用方法及参数数据.md",
+    "数学/泰勒公式的推导与余项作用 (笔记).md",
+    "conflict-files-obsidian-git.md",
+    "Math/泰勒展开常见公式.md",
+    "Math/泰勒公式的推导与余项作用 (笔记).md",
+    "Math/极限定义证明笔记.md",
+    "Math/函数的连续性 (Continuity).md",
+    "Math",
+    "work",
     "大作业",
-    "Templates",
-    "C/000-C-Lang-Index.md~",
-    "000-Home.md~",
-    "obsidian",
     "物理/Pasted image 20251104165258.png",
     "物理/Pasted image 20251104165328.png",
-    "4913",
-    "Excalidraw",
-    "High-Performance-Computing(HPC)/04-Labs(实验数据)",
-    "High-Performance-Computing(HPC)",
     "Untitled.canvas",
     "物理/Pasted image 20251104165659.png"
   ]
