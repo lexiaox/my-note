@@ -20,7 +20,7 @@ struct BadStruct {
 
 struct GoodStruct {
     volatile long long a;
-    char padding[64]; // 显式隔离，跨越一个 Cache Line
+x    char padding[64]; // 显式隔离，跨越一个 Cache Line
     volatile long long b;
 } good_data;
 ````

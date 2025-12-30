@@ -1,5 +1,3 @@
-
-
 ### 1. 核心配置
 - **模式**: RSYNC
 - **存储路径**: `/data/timeshift`
@@ -16,3 +14,4 @@ sudo timeshift --list
 
 # 恢复指定快照 (交互式)
 sudo timeshift --restore
+```

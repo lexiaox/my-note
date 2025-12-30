@@ -11,7 +11,7 @@ cssclass: dashboard
 - **底层语言**: [[C/000-C-Lang-Index|C 语言进阶与内存管理]] 🟢
 - **并行计算**: [[High-Performance-Computing(HPC)/HPC_Master_MOC（导航）|HPC 高性能计算 (OpenMP/MPI)]] 🔥
 - **脚本编程**: [[python/000-Python-Index|Python 全栈学习]]
-- **算法数据结构**: [[算法/连通块计数问题|算法笔记]]
+- **算法数据结构**: [[01-连通块计数问题|算法笔记]]
 
 ## 🐧 Linux 与 运维 (DevOps)
 - **Shell 军火库**: [[shell/000-Shell-Index|Linux CLI 命令速查]] 🛠️
