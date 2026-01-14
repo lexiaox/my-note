@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/01.1不定积分练习.md",
+                "file": "English/科学的定义与特征.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1不定积分练习"
+              "title": "科学的定义与特征"
             }
           }
         ],
@@ -213,9 +213,11 @@
   },
   "active": "703f5487c6a90a5b",
   "lastOpenFiles": [
+    "Math/01.1不定积分练习.md",
+    "English/科学的定义与特征.md",
+    "English",
     "Math/三角函数.md",
     "Math/三角函数微积分函数导数速查笔记.md",
-    "Math/01.1不定积分练习.md",
     "杂项/暑研.md",
     "High-Performance-Computing(HPC)/04-Labs(实验数据)/04.2-Lab-Pi-Calculation.md.md",
     "算法/01-连通块计数问题.md",
@@ -240,7 +242,6 @@
     "/计算机系统/02-SIMD.md",
     "/High-Performance-Computing(HPC)/基于 x86 架构的单精度矩阵乘法性能优化微观机制研究.md",
     "/计算机系统/06-寄存器级的指令调度.md",
-    "/计算机系统/05-存储墙.md",
     "/恢复系统配置",
     "/Math",
     "/High-Performance-Computing(HPC)/performance_chart.png",
@@ -251,7 +252,6 @@
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "/计算机系统",
-    "/High-Performance-Computing(HPC)/06-GEMM"
+    "/计算机系统"
   ]
 }
